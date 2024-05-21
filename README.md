@@ -1,6 +1,1 @@
-Interested in anything to do with:
-  - Networking
-  - Radios
-  - Electricity
-  - Programming
-  - Crypto(graphy)
+Check out my Personal Website: [epicsite.xyz](https://epicsite.xyz)
